@@ -1,1 +1,2 @@
-# Pack is in branches that are separated by version
+# Where is the pack?
+Change branches to view the pack for that version
